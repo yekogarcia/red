@@ -1,0 +1,87 @@
+header {
+    height: 10vh;
+    width: 100%;
+    background: #889ee4d4;
+    position: fixed;
+}
+
+.head {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    background: blue;
+}
+
+.logo {
+    margin: 10px 5px;
+    height: 50px;
+    width: 10%;
+    background-color: aliceblue;
+}
+
+.search {
+    margin: 10px 0px;
+    width: 30%;
+    height: 50px;
+    background-color: aliceblue;
+}
+
+.menu {
+    display: flex;
+    width: 45%;
+    height: 50px;
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 13%;
+}
+
+.profile {
+    height: 50px;
+    width: 20%;
+    background: green;
+    margin-right: 2px;
+}
+.start {
+    width: 15%;
+    background: green;
+    height: 50px;
+    margin-right: 2px;
+}
+
+.create {
+    margin-right: 2px;
+    width: 15%;
+    background: green;
+    height: 50px;
+}
+
+.request{
+    margin-right: 2px;
+    width: 10%;
+    background: green;
+    height: 50px;
+}
+.messages {
+    width: 10%;
+    background: green;
+    height: 50px;
+    margin-right: 2px;
+}
+.notification{
+    width: 10%;
+    background: green;
+    margin-right: 2px;
+    height: 50px;
+}
+.help{
+    width: 10%;
+    background: green;
+    margin-right: 2px;
+    height: 50px;
+}
+.drop_down{
+    width: 5%;
+    background: green;
+    margin-right: 2px;
+    height: 50px;
+}
